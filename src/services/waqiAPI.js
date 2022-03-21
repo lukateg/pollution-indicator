@@ -1,7 +1,7 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 const baseUrl = "https://api.waqi.info";
-const token = "d18cbec2c7a4771e63f19d94c9aae75dd4a6a4f4";
+const token = "----------------------------------";
 
 const createRequest = (url) => ({ url });
 
